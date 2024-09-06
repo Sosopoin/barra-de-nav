@@ -1,0 +1,16 @@
+.t{
+    text-align: center;
+    color: black;
+    background-color: bisque;
+}
+.s {
+    background-color: darkslateblue;
+    color: whitesmoke;
+    text-align: center;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    background-color: chocolate;
+    overflow: hidden;
+}
