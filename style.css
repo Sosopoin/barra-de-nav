@@ -3,14 +3,18 @@
     color: black;
     background-color: bisque;
 }
-.s {
-    background-color: darkslateblue;
-    color: whitesmoke;
-    text-align: center;
-}
 .navbar{
     position: fixed;
     width: 100%;
+    z-index: 1000;
     background-color: chocolate;
     overflow: hidden;
+}
+.black{
+    background-color: rgb(20, 19, 19);
+}
+.papa {  background-color: darkslateblue;
+    color: whitesmoke;
+    text-align: center;
+
 }
